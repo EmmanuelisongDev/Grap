@@ -1,7 +1,7 @@
 import Head from "next/head";
 
 import Layout from "@components/Layout";
-import Header from "@components/Header";
+
 import Container from "@components/Container";
 import Button from "@components/Button";
 import { ApolloClient, InMemoryCache, gql } from "@apollo/client";

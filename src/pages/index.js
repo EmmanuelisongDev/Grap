@@ -3,7 +3,7 @@ import Link from "next/link";
 import Layout from "@components/Layout";
 import Container from "@components/Container";
 import Button from "@components/Button";
-import products from "@data/products";
+
 import styles from "@styles/Page.module.scss";
 import { ApolloClient, InMemoryCache, gql } from "@apollo/client";
 
